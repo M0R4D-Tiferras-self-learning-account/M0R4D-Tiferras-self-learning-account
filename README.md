@@ -4,7 +4,7 @@
   <h5>So, I dropped out in 2023 after the spring semester, and I started trying harder by self-learning and practicing every single day with a hunger for IT knowledge based on online resources [online courses(edx, coursera ...), books, articles, tutorials, websites like; <a href="https://www.geeksforgeeks.org">geeksforgeeks</a> , <a href="https://www.theodinproject.com">The Odin Project</a>, ...etc and joining some online bootcamp like the<a href="https://www.alxafrica.com"> ALX software engeniering</a> bootcamp  and <a href="https://www.freecodecamp.com"> FreeCodeCamp </a>
 </h5>
 <hr></hr>
-<h5>I have interests in: </h5> DSA [Algorithms & Data Structures], scripting languages (Python, shell, and JavaScript), Web development, App security, pentesting , operating systems,and AI"
+<h5>I have interests in: </h5> DSA [Algorithms & Data Structures], scripting languages (Python, shell, and JavaScript), Web development, Web security, pentesting , networking ,and AI"
 <hr></hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0R4D-Tiferras-self-learning-account&theme=yeblu&show_icons=true)
