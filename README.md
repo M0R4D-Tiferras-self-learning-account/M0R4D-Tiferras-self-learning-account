@@ -6,4 +6,5 @@
 <hr></hr>
 <h5>I have interests in: </h5> algorithms, data structures, scripting languages (Python, shell, and JavaScript), networking, operating systems, web development, security,and AI"
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0R4D-Tiferras-self-learning-account&theme=algolia&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0R4D-Tiferras-self-learning-account&theme=yeblu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0R4D-Tiferras-self-learning-account&theme=tokyonight) 
