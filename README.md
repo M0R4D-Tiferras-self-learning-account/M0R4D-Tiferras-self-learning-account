@@ -13,7 +13,10 @@
    &nbsp; &nbsp; &nbsp; So, I have chosen to self-learn and focus on growing my knowledge until I become a skillful in software development, and finding weaknesses in code.
 </p>
 <br>
-
+<p>
+    &nbsp; &nbsp; &nbsp; I take a risk that's better than regret :) 
+</p>
+<br>
 <p>
    <br> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0R4D-Tiferras-self-learning-account&theme=tokyonight" alt="mourad tiferras">
    <img align="right" src="https://pbs.twimg.com/media/EQ4qWwHWkAAJdTr.jpg" alt="mourad tiferras">
